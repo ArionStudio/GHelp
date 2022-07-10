@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">GHelp</string>
+    <string name="app_logo">App logo</string>
+    <string name="devName">Developed by Arion</string>
+    <string name="logo_info_2">Logo on top of app</string>
+    <string name="username">type username</string>
+    <string name="inputLabel">Check the repos info</string>
+    <string name="example_username">Simon Levante</string>
+    <string name="example_repository">Example repository</string>
+    <string name="type">Type: Public</string>
+    <string name="small_lorem">Lorem ipsum dolor est inko terspiro nanako sipak turink</string>
+    <string name="example_lang">Lang: Kotlin</string>
+    <string name="go">GO</string>
+    <string name="example_name">Simon</string>
+    <string name="example_star">35</string>
+    <string name="example_eye">100</string>
+    <string name="contentEyeDesc">eye</string>
+    <string name="contentStarDesc">Star</string>
+    <string name="link">GITHUB</string>
+    <string name="UnknownErrorMsg">Something go wrong!</string>
+    <string name="WaitMsg">Ohh :(\nWait 10 min until you try next time!</string>
+    <string name="MissingUserInGitDataBase">User doesn\'t exist</string>
+    <string name="InvalidUserName">Please type correct name of user</string>
+    <string name="EmptyUserInp">Type name of user in input</string>
+</resources>
